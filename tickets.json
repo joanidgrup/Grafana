@@ -1,0 +1,452 @@
+[
+  {
+    "ticket_id": "2000",
+    "titulo": "Incidencia #2000",
+    "estado": "Cerrado",
+    "urgencia": "Baja",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-07-15",
+    "fecha_cierre": "2025-07-18"
+  },
+  {
+    "ticket_id": "2001",
+    "titulo": "Incidencia #2001",
+    "estado": "En progreso",
+    "urgencia": "Alta",
+    "asignado": "Ana",
+    "fecha_creacion": "2025-07-15",
+    "fecha_cierre": "2025-07-16"
+  },
+  {
+    "ticket_id": "2002",
+    "titulo": "Incidencia #2002",
+    "estado": "Cerrado",
+    "urgencia": "Baja",
+    "asignado": "Ana",
+    "fecha_creacion": "2025-07-16",
+    "fecha_cierre": "2025-07-18"
+  },
+  {
+    "ticket_id": "2003",
+    "titulo": "Incidencia #2003",
+    "estado": "Abierto",
+    "urgencia": "Media",
+    "asignado": "Jordi",
+    "fecha_creacion": "2025-07-16",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2004",
+    "titulo": "Incidencia #2004",
+    "estado": "Abierto",
+    "urgencia": "Alta",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-17",
+    "fecha_cierre": "2025-07-20"
+  },
+  {
+    "ticket_id": "2005",
+    "titulo": "Incidencia #2005",
+    "estado": "Cerrado",
+    "urgencia": "Baja",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-17",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2006",
+    "titulo": "Incidencia #2006",
+    "estado": "En progreso",
+    "urgencia": "Media",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-07-18",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2007",
+    "titulo": "Incidencia #2007",
+    "estado": "En progreso",
+    "urgencia": "Media",
+    "asignado": "Jordi",
+    "fecha_creacion": "2025-07-18",
+    "fecha_cierre": "2025-07-23"
+  },
+  {
+    "ticket_id": "2008",
+    "titulo": "Incidencia #2008",
+    "estado": "Abierto",
+    "urgencia": "Alta",
+    "asignado": "Ana",
+    "fecha_creacion": "2025-07-19",
+    "fecha_cierre": "2025-07-21"
+  },
+  {
+    "ticket_id": "2009",
+    "titulo": "Incidencia #2009",
+    "estado": "Abierto",
+    "urgencia": "Media",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-19",
+    "fecha_cierre": "2025-07-24"
+  },
+  {
+    "ticket_id": "2010",
+    "titulo": "Incidencia #2010",
+    "estado": "En progreso",
+    "urgencia": "Media",
+    "asignado": "Jordi",
+    "fecha_creacion": "2025-07-20",
+    "fecha_cierre": "2025-07-25"
+  },
+  {
+    "ticket_id": "2011",
+    "titulo": "Incidencia #2011",
+    "estado": "Cerrado",
+    "urgencia": "Alta",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-07-20",
+    "fecha_cierre": "2025-07-23"
+  },
+  {
+    "ticket_id": "2012",
+    "titulo": "Incidencia #2012",
+    "estado": "Cerrado",
+    "urgencia": "Baja",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-07-21",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2013",
+    "titulo": "Incidencia #2013",
+    "estado": "Cerrado",
+    "urgencia": "Media",
+    "asignado": "Jordi",
+    "fecha_creacion": "2025-07-21",
+    "fecha_cierre": "2025-07-23"
+  },
+  {
+    "ticket_id": "2014",
+    "titulo": "Incidencia #2014",
+    "estado": "Abierto",
+    "urgencia": "Baja",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-07-22",
+    "fecha_cierre": "2025-07-23"
+  },
+  {
+    "ticket_id": "2015",
+    "titulo": "Incidencia #2015",
+    "estado": "En progreso",
+    "urgencia": "Alta",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-22",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2016",
+    "titulo": "Incidencia #2016",
+    "estado": "Abierto",
+    "urgencia": "Media",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-23",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2017",
+    "titulo": "Incidencia #2017",
+    "estado": "En progreso",
+    "urgencia": "Baja",
+    "asignado": "Jordi",
+    "fecha_creacion": "2025-07-23",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2018",
+    "titulo": "Incidencia #2018",
+    "estado": "Abierto",
+    "urgencia": "Baja",
+    "asignado": "Miguel",
+    "fecha_creacion": "2025-07-24",
+    "fecha_cierre": "2025-07-28"
+  },
+  {
+    "ticket_id": "2019",
+    "titulo": "Incidencia #2019",
+    "estado": "Cerrado",
+    "urgencia": "Media",
+    "asignado": "Ana",
+    "fecha_creacion": "2025-07-24",
+    "fecha_cierre": "2025-07-27"
+  },
+  {
+    "ticket_id": "2020",
+    "titulo": "Incidencia #2020",
+    "estado": "Abierto",
+    "urgencia": "Media",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-25",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2021",
+    "titulo": "Incidencia #2021",
+    "estado": "En progreso",
+    "urgencia": "Alta",
+    "asignado": "Miguel",
+    "fecha_creacion": "2025-07-25",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2022",
+    "titulo": "Incidencia #2022",
+    "estado": "En progreso",
+    "urgencia": "Alta",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-26",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2023",
+    "titulo": "Incidencia #2023",
+    "estado": "Abierto",
+    "urgencia": "Media",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-07-26",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2024",
+    "titulo": "Incidencia #2024",
+    "estado": "Cerrado",
+    "urgencia": "Baja",
+    "asignado": "Jordi",
+    "fecha_creacion": "2025-07-27",
+    "fecha_cierre": "2025-07-28"
+  },
+  {
+    "ticket_id": "2025",
+    "titulo": "Incidencia #2025",
+    "estado": "En progreso",
+    "urgencia": "Baja",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-27",
+    "fecha_cierre": "2025-08-01"
+  },
+  {
+    "ticket_id": "2026",
+    "titulo": "Incidencia #2026",
+    "estado": "Cerrado",
+    "urgencia": "Media",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-28",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2027",
+    "titulo": "Incidencia #2027",
+    "estado": "Cerrado",
+    "urgencia": "Media",
+    "asignado": "Ana",
+    "fecha_creacion": "2025-07-28",
+    "fecha_cierre": "2025-07-31"
+  },
+  {
+    "ticket_id": "2028",
+    "titulo": "Incidencia #2028",
+    "estado": "En progreso",
+    "urgencia": "Alta",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-07-29",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2029",
+    "titulo": "Incidencia #2029",
+    "estado": "Cerrado",
+    "urgencia": "Media",
+    "asignado": "Jordi",
+    "fecha_creacion": "2025-07-29",
+    "fecha_cierre": "2025-08-01"
+  },
+  {
+    "ticket_id": "2030",
+    "titulo": "Incidencia #2030",
+    "estado": "Abierto",
+    "urgencia": "Alta",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-07-30",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2031",
+    "titulo": "Incidencia #2031",
+    "estado": "Cerrado",
+    "urgencia": "Media",
+    "asignado": "Miguel",
+    "fecha_creacion": "2025-07-30",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2032",
+    "titulo": "Incidencia #2032",
+    "estado": "En progreso",
+    "urgencia": "Alta",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-07-31",
+    "fecha_cierre": "2025-08-04"
+  },
+  {
+    "ticket_id": "2033",
+    "titulo": "Incidencia #2033",
+    "estado": "Abierto",
+    "urgencia": "Media",
+    "asignado": "Miguel",
+    "fecha_creacion": "2025-07-31",
+    "fecha_cierre": "2025-08-02"
+  },
+  {
+    "ticket_id": "2034",
+    "titulo": "Incidencia #2034",
+    "estado": "Abierto",
+    "urgencia": "Media",
+    "asignado": "Miguel",
+    "fecha_creacion": "2025-08-01",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2035",
+    "titulo": "Incidencia #2035",
+    "estado": "Abierto",
+    "urgencia": "Baja",
+    "asignado": "Laura",
+    "fecha_creacion": "2025-08-01",
+    "fecha_cierre": "2025-08-04"
+  },
+  {
+    "ticket_id": "2036",
+    "titulo": "Incidencia #2036",
+    "estado": "Abierto",
+    "urgencia": "Media",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-08-02",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2037",
+    "titulo": "Incidencia #2037",
+    "estado": "En progreso",
+    "urgencia": "Media",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-08-02",
+    "fecha_cierre": "2025-08-03"
+  },
+  {
+    "ticket_id": "2038",
+    "titulo": "Incidencia #2038",
+    "estado": "Abierto",
+    "urgencia": "Alta",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-08-03",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2039",
+    "titulo": "Incidencia #2039",
+    "estado": "En progreso",
+    "urgencia": "Media",
+    "asignado": "Ana",
+    "fecha_creacion": "2025-08-03",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2040",
+    "titulo": "Incidencia #2040",
+    "estado": "Cerrado",
+    "urgencia": "Baja",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-08-04",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2041",
+    "titulo": "Incidencia #2041",
+    "estado": "Abierto",
+    "urgencia": "Baja",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-08-04",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2042",
+    "titulo": "Incidencia #2042",
+    "estado": "Abierto",
+    "urgencia": "Baja",
+    "asignado": "Ana",
+    "fecha_creacion": "2025-08-05",
+    "fecha_cierre": "2025-08-06"
+  },
+  {
+    "ticket_id": "2043",
+    "titulo": "Incidencia #2043",
+    "estado": "En progreso",
+    "urgencia": "Alta",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-08-05",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2044",
+    "titulo": "Incidencia #2044",
+    "estado": "Cerrado",
+    "urgencia": "Alta",
+    "asignado": "Carlos",
+    "fecha_creacion": "2025-08-06",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2045",
+    "titulo": "Incidencia #2045",
+    "estado": "Cerrado",
+    "urgencia": "Media",
+    "asignado": "Ana",
+    "fecha_creacion": "2025-08-06",
+    "fecha_cierre": "2025-08-11"
+  },
+  {
+    "ticket_id": "2046",
+    "titulo": "Incidencia #2046",
+    "estado": "Cerrado",
+    "urgencia": "Media",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-08-07",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2047",
+    "titulo": "Incidencia #2047",
+    "estado": "En progreso",
+    "urgencia": "Baja",
+    "asignado": "Sofía",
+    "fecha_creacion": "2025-08-07",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2048",
+    "titulo": "Incidencia #2048",
+    "estado": "En progreso",
+    "urgencia": "Baja",
+    "asignado": "Miguel",
+    "fecha_creacion": "2025-08-08",
+    "fecha_cierre": ""
+  },
+  {
+    "ticket_id": "2049",
+    "titulo": "Incidencia #2049",
+    "estado": "En progreso",
+    "urgencia": "Media",
+    "asignado": "Miguel",
+    "fecha_creacion": "2025-08-08",
+    "fecha_cierre": "2025-08-09"
+  }
+]
