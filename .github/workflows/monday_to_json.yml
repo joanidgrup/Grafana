@@ -1,44 +1,30 @@
-name: Export monday.com to JSON
-
+name: Export monday → JSON
 on:
   workflow_dispatch: {}
   schedule:
-    # Corre cada hora (cron está en UTC). Ejemplo: a minuto 5.
-    - cron: "5 * * * *"
+    - cron: "5 * * * *"   # cada hora (UTC)
 
 jobs:
   export:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # para poder commitear
     env:
-      MONDAY_BOARD_ID: ${{ vars.MONDAY_BOARD_ID }}
-      MONDAY_TOKEN: ${{ secrets.MONDAY_TOKEN }}
-      OUTPUT_PATH: data/monday_tickets.json
-
+      MONDAY_TOKEN: ${{ secrets.MONDAY_TOKEN }}   # guarda tu token en Secrets
+      MONDAY_BOARD_ID: 1587958550                 # <-- pon aquí tu ID de tablero
+      OUTPUT_PATH: tickets.json                   # o data/tickets.json
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Install deps (none required)
-        run: echo "No external deps needed"
-
-      - name: Fetch monday data
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Fetch monday
         run: node scripts/fetch_monday.js
-
-      - name: Commit changes
+      - name: Commit JSON
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/monday_tickets.json
-            git commit -m "chore: update monday JSON ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+            git add $OUTPUT_PATH
+            git commit -m "chore: update $OUTPUT_PATH"
             git push
           else
-            echo "No changes to commit."
+            echo "Sin cambios."
           fi
