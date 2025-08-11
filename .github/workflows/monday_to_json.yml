@@ -14,7 +14,7 @@ jobs:
     env:
       MONDAY_BOARD_ID: ${{ vars.MONDAY_BOARD_ID }}
       MONDAY_TOKEN: ${{ secrets.MONDAY_TOKEN }}
-      OUTPUT_PATH: data/monday_tickets.json
+      OUTPUT_PATH: Grafana/tickets.json
 
     steps:
       - name: Checkout
