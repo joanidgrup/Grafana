@@ -14,7 +14,7 @@ jobs:
     env:
       MONDAY_BOARD_ID: ${{ vars.MONDAY_BOARD_ID }}
       MONDAY_TOKEN: ${{ secrets.MONDAY_TOKEN }}
-      OUTPUT_PATH: Grafana/tickets.json
+      OUTPUT_PATH: data/monday_tickets.json
 
     steps:
       - name: Checkout
@@ -36,7 +36,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add Grafana/tickets.json
+            git add data/monday_tickets.json
             git commit -m "chore: update monday JSON ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
             git push
           else
