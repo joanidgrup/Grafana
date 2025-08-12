@@ -1,30 +1,32 @@
-name: Export monday → JSON
+name: Export Monday tickets to GitHub JSON
+
 on:
-  workflow_dispatch: {}
   schedule:
-    - cron: "5 * * * *"   # cada hora (UTC)
+    # Runs every day at 06:00 UTC (08:00 Europe/Madrid in summer, 07:00 in winter)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   export:
     runs-on: ubuntu-latest
-    env:
-      MONDAY_TOKEN: ${{ secrets.MONDAY_TOKEN }}   # guarda tu token en Secrets
-      MONDAY_BOARD_ID: 1587958550                 # <-- pon aquí tu ID de tablero
-      OUTPUT_PATH: tickets.json                   # o data/tickets.json
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: 20 }
-      - name: Fetch monday
-        run: node scripts/fetch_monday.js
-      - name: Commit JSON
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add $OUTPUT_PATH
-            git commit -m "chore: update $OUTPUT_PATH"
-            git push
-          else
-            echo "Sin cambios."
-          fi
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Run exporter
+        run: Grafana/fetch_monday.js
+        env:
+          MONDAY_API_KEY: ${{ secrets.MONDAY_API_KEY }}
+          # Uses the built-in GitHub token; no need to create a PAT unless you want to.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+          MONDAY_BOARD_ID: "1587958550"
+          GITHUB_PATH: "tickets.json"
