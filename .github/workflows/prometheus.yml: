@@ -1,0 +1,4 @@
+scrape_configs:
+  - job_name: 'monday'
+    static_configs:
+      - targets: ['https://rajapack-unit.monday.com/boards/1587958550:9110']
