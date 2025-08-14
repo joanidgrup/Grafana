@@ -1,1 +1,16 @@
+# entornos locales
+.venv/
+.env
 
+# datos
+*.log
+*.tmp
+
+# salida JSON
+# (dejamos trackeado data/ excepto .keep)
+# si deseas ignorar JSON, descomenta la línea siguiente
+# data/*.json
+
+# mac/win
+.DS_Store
+Thumbs.db
