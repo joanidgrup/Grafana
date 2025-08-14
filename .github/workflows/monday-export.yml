@@ -1,1 +1,42 @@
+name: Export Monday tickets to JSON
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * *'  # 04:00 UTC diarios (ajusta a tu gusto)
+
+permissions:
+  contents: write  # necesario para commitear el JSON
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Run export script
+        env:
+          MONDAY_API_TOKEN: ${{ secrets.MONDAY_API_TOKEN }}
+          MONDAY_BOARD_ID: ${{ secrets.MONDAY_BOARD_ID }}
+          MONDAY_MAX_ITEMS: ${{ vars.MONDAY_MAX_ITEMS }}
+          OUTPUT_PATH: ${{ vars.OUTPUT_PATH }}
+          COLUMN_MAPPING_JSON: ${{ vars.COLUMN_MAPPING_JSON }}
+        run: |
+          python scripts/export_monday_to_json.py
+
+      - name: Commit JSON if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): update monday tickets JSON"
+          file_pattern: data/*.json
