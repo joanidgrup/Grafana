@@ -1,1 +1,14 @@
-
+{
+  "status": "Estado",
+  "status_1": "Urgencia",
+  "dup__of_prioridad__1": "Impacto",
+  "personas7__1": "Solicitante",
+  "estado_1__1": "Categoría",
+  "department": "Departamento",
+  "numbers": "SLA (min)",
+  "f_rmula__1": "Dentro de SLA",
+  "time_tracking": "Tiempo de resolución",
+  "creation_log": "Fecha de creación",
+  "fecha6__1": "Fecha de cierre",
+  "id_de_elemento_mkkcq0n3": "Nº de ticket"
+}
