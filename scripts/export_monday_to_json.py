@@ -17,8 +17,8 @@ def env(name: str, default: Optional[str] = None) -> Optional[str]:
 
 
 def load_column_mapping() -> Dict[str, str]:
-    mapping_env = env("COLUMN_MAPPING_JSON")
-    if mapping_env:
+    mapping_env = os.getenv("COLUMN_MAPPING_JSON")
+    if mapping_env is not None and mapping_env.strip() != "":
         try:
             return json.loads(mapping_env)
         except json.JSONDecodeError as e:
@@ -45,14 +45,14 @@ def graphql_query(session: requests.Session, query: str, variables: Dict[str, An
 
 # -------- Exportador --------
 
-def fetch_board_items(session: requests.Session, board_id: int, max_items: int) -> Dict[str, Any]:
+def fetch_board_items(session: requests.Session, board_id: str, max_items: int) -> Dict[str, Any]:
     """Descarga items paginados usando items_page (cursor)."""
     items: List[Dict[str, Any]] = []
     cursor = None
 
     # Campos que queremos del item
     query = """
-    query($board: Int!, $cursor: String) {
+    query($board: ID!, $cursor: String) {
       boards(ids: [$board]) {
         id
         name
@@ -65,7 +65,7 @@ def fetch_board_items(session: requests.Session, board_id: int, max_items: int) 
             updated_at
             creator_id
             group { id title }
-            column_values { id title text value type }
+            column_values { id text value type }
           }
         }
       }
@@ -107,8 +107,14 @@ def transform_payload(raw: Dict[str, Any], mapping: Dict[str, str]) -> Dict[str,
     board = raw["board"]
     out_items: List[Dict[str, Any]] = []
     for it in raw["items"]:
+        # id de item como int si es numérico; si no, dejar string
+        it_id = it.get("id")
+        try:
+            it_id = int(it_id)
+        except (TypeError, ValueError):
+            pass
         out_items.append({
-            "id": int(it["id"]) if str(it["id"]).isdigit() else it["id"],
+            "id": it_id,
             "name": it.get("name"),
             "group": it.get("group", {}).get("title"),
             "created_at": it.get("created_at"),
@@ -126,12 +132,6 @@ def main():
         print("[error] Faltan MONDAY_API_TOKEN o MONDAY_BOARD_ID", file=sys.stderr)
         sys.exit(1)
 
-    try:
-        board_id_int = int(board_id)
-    except ValueError:
-        print("[error] MONDAY_BOARD_ID debe ser numérico", file=sys.stderr)
-        sys.exit(1)
-
     max_items = int(env("MONDAY_MAX_ITEMS", "5000"))
     output_path = env("OUTPUT_PATH", os.path.join("data", "monday_tickets.json"))
     mapping = load_column_mapping()
@@ -142,7 +142,8 @@ def main():
         "Content-Type": "application/json",
     })
 
-    raw = fetch_board_items(session, board_id_int, max_items)
+    # Monday GraphQL espera ID! (string). No convertir a int.
+    raw = fetch_board_items(session, board_id, max_items)
     payload = transform_payload(raw, mapping)
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
