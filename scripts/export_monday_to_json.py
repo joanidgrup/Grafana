@@ -43,6 +43,34 @@ def graphql_query(session: requests.Session, query: str, variables: Dict[str, An
     return data["data"]
 
 
+# -------- Helpers específicos --------
+
+def extract_assignees(column_values: List[Dict[str, Any]], assignee_col_id: str) -> Dict[str, Any]:
+    """Devuelve ids y nombres de la columna de asignados.
+    - ids: desde value.personsAndTeams[].id
+    - names: desde text (lista separada por comas)
+    """
+    ids: List[int] = []
+    names: List[str] = []
+    for cv in column_values or []:
+        if cv.get("id") == assignee_col_id:
+            # nombres desde text
+            text = (cv.get("text") or "").strip()
+            if text:
+                names = [n.strip() for n in text.split(",") if n.strip()]
+            # ids desde value
+            try:
+                v = json.loads(cv.get("value") or "{}")
+                for pt in v.get("personsAndTeams", []) or []:
+                    pid = pt.get("id")
+                    if isinstance(pid, int) or (isinstance(pid, str) and pid.isdigit()):
+                        ids.append(int(pid))
+            except Exception:
+                pass
+            break
+    return {"ids": ids, "names": names}
+
+
 # -------- Exportador --------
 
 def fetch_board_items(session: requests.Session, board_id: str, max_items: int) -> Dict[str, Any]:
@@ -103,7 +131,7 @@ def map_columns(item: Dict[str, Any], mapping: Dict[str, str]) -> Dict[str, Any]
     return mapped
 
 
-def transform_payload(raw: Dict[str, Any], mapping: Dict[str, str]) -> Dict[str, Any]:
+def transform_payload(raw: Dict[str, Any], mapping: Dict[str, str], assignee_col_id: str) -> Dict[str, Any]:
     board = raw["board"]
     out_items: List[Dict[str, Any]] = []
     for it in raw["items"]:
@@ -113,6 +141,9 @@ def transform_payload(raw: Dict[str, Any], mapping: Dict[str, str]) -> Dict[str,
             it_id = int(it_id)
         except (TypeError, ValueError):
             pass
+
+        ass = extract_assignees(it.get("column_values"), assignee_col_id)
+
         out_items.append({
             "id": it_id,
             "name": it.get("name"),
@@ -120,6 +151,11 @@ def transform_payload(raw: Dict[str, Any], mapping: Dict[str, str]) -> Dict[str,
             "created_at": it.get("created_at"),
             "updated_at": it.get("updated_at"),
             "creator_id": it.get("creator_id"),
+            # campos de asignación (útiles incluso sin mapping)
+            "assignees": ass["names"],                # nombres (humanos)
+            "assignees_ids": ass["ids"],              # ids internos de Monday
+            "assigned_primary": (ass["names"][0] if ass["names"] else None),
+            # columnas mapeadas / crudas
             "columns": map_columns(it, mapping),
         })
     return {"board": board, "count": len(out_items), "items": out_items}
@@ -135,6 +171,7 @@ def main():
     max_items = int(env("MONDAY_MAX_ITEMS", "5000"))
     output_path = env("OUTPUT_PATH", os.path.join("data", "monday_tickets.json"))
     mapping = load_column_mapping()
+    assignee_col_id = env("ASSIGNEE_COLUMN_ID", "person")
 
     session = requests.Session()
     session.headers.update({
@@ -144,7 +181,7 @@ def main():
 
     # Monday GraphQL espera ID! (string). No convertir a int.
     raw = fetch_board_items(session, board_id, max_items)
-    payload = transform_payload(raw, mapping)
+    payload = transform_payload(raw, mapping, assignee_col_id)
 
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
