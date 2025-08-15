@@ -6,6 +6,32 @@
   "count": 100,
   "items": [
     {
+      "id": 2101868282,
+      "name": "Prova de grafana",
+      "group": "Pendientes de asignar",
+      "created_at": "2025-08-15T22:15:45Z",
+      "updated_at": "2025-08-15T22:16:04Z",
+      "creator_id": "78542761",
+      "assignees": [],
+      "assignees_ids": [],
+      "assigned_primary": null,
+      "columns": {
+        "Estado": "Pendiente de asignar",
+        "Urgencia": "",
+        "Impacto": "",
+        "Asignado": "",
+        "Solicitante": "Claranet ServiceDesk",
+        "Categoría": "Usuarios / permisos",
+        "Departamento": "",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "00:05:41",
+        "Fecha de creación": "2025-08-15 22:15:45 UTC",
+        "Fecha de cierre": "",
+        "Nº de ticket": "2101868282"
+      }
+    },
+    {
       "id": 1803587389,
       "name": "solicitud material Andalucía",
       "group": "En proceso",
@@ -29,7 +55,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4706:05:23",
+        "Tiempo de resolución": "4710:37:00",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -59,7 +85,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5098:42:58",
+        "Tiempo de resolución": "5103:14:35",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -119,7 +145,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1401:52:18",
+        "Tiempo de resolución": "1406:23:55",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -149,7 +175,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2767:10:51",
+        "Tiempo de resolución": "2771:42:27",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
@@ -179,7 +205,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "103:31:28",
+        "Tiempo de resolución": "108:03:04",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -209,7 +235,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "55:59:08",
+        "Tiempo de resolución": "60:30:44",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -239,7 +265,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "56:05:26",
+        "Tiempo de resolución": "60:37:02",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -419,7 +445,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5740:17:52",
+        "Tiempo de resolución": "5744:49:29",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -2971,40 +2997,10 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "170:04:46",
+        "Tiempo de resolución": "174:36:23",
         "Fecha de creación": "2025-08-08 15:45:06 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2091281997"
-      }
-    },
-    {
-      "id": 1697310031,
-      "name": "Impressora desconectada",
-      "group": "Finalizado",
-      "created_at": "2024-11-08T12:21:37Z",
-      "updated_at": "2024-11-08T12:47:09Z",
-      "creator_id": "64311515",
-      "assignees": [
-        "Sergi Guillen"
-      ],
-      "assignees_ids": [
-        64428561
-      ],
-      "assigned_primary": "Sergi Guillen",
-      "columns": {
-        "Estado": "Finalizado",
-        "Urgencia": "Media",
-        "Impacto": "Menor",
-        "Asignado": "Sergi Guillen",
-        "Solicitante": "Joan Company",
-        "Categoría": "Impresoras",
-        "Departamento": "Ventas (GGCC)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "00:25:29",
-        "Fecha de creación": "2024-11-08 12:21:37 UTC",
-        "Fecha de cierre": "2024-11-08",
-        "Nº de ticket": "1697310031"
       }
     }
   ]
