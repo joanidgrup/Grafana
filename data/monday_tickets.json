@@ -12,16 +12,24 @@
       "created_at": "2025-01-31T15:44:22Z",
       "updated_at": "2025-03-17T10:48:44Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Baja",
         "Impacto": "Moderado",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Solicitud de material informático",
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4699:38:08",
+        "Tiempo de resolución": "4706:05:23",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -34,16 +42,24 @@
       "created_at": "2025-01-15T07:06:49Z",
       "updated_at": "2025-03-17T10:45:56Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Crítica",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Dispositivos móviles / tablets",
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5092:15:43",
+        "Tiempo de resolución": "5098:42:58",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -56,10 +72,18 @@
       "created_at": "2025-06-16T13:17:51Z",
       "updated_at": "2025-08-07T08:29:46Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Crítica",
         "Impacto": "Significativo",
+        "Asignado": "Claranet ServiceDesk",
         "Solicitante": "",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -78,16 +102,24 @@
       "created_at": "2025-06-18T07:57:29Z",
       "updated_at": "2025-08-08T10:09:33Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Claranet ServiceDesk",
         "Solicitante": "",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1395:25:03",
+        "Tiempo de resolución": "1401:52:18",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -100,16 +132,24 @@
       "created_at": "2025-04-22T10:38:59Z",
       "updated_at": "2025-08-08T12:36:26Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Alta",
         "Impacto": "Moderado",
+        "Asignado": "Claranet ServiceDesk",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2760:43:35",
+        "Tiempo de resolución": "2767:10:51",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
@@ -122,16 +162,24 @@
       "created_at": "2025-08-11T10:18:21Z",
       "updated_at": "2025-08-11T10:34:15Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Claranet ServiceDesk",
         "Solicitante": "",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "97:04:12",
+        "Tiempo de resolución": "103:31:28",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -144,16 +192,24 @@
       "created_at": "2025-08-13T09:50:40Z",
       "updated_at": "2025-08-13T10:20:44Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Claranet ServiceDesk",
         "Solicitante": "",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "49:31:52",
+        "Tiempo de resolución": "55:59:08",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -166,16 +222,24 @@
       "created_at": "2025-08-13T09:44:21Z",
       "updated_at": "2025-08-13T10:20:45Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Claranet ServiceDesk",
         "Solicitante": "",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "49:38:10",
+        "Tiempo de resolución": "56:05:26",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -188,10 +252,18 @@
       "created_at": "2024-09-17T10:32:16Z",
       "updated_at": "2024-11-13T07:42:56Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Marketing",
@@ -210,10 +282,18 @@
       "created_at": "2024-09-27T09:25:33Z",
       "updated_at": "2024-11-13T07:43:01Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Compras",
@@ -232,10 +312,18 @@
       "created_at": "2024-09-27T10:58:22Z",
       "updated_at": "2024-10-02T09:47:59Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Salesforce",
         "Departamento": "Ventas (GGCC)",
@@ -254,10 +342,18 @@
       "created_at": "2024-09-30T10:41:20Z",
       "updated_at": "2024-10-24T14:48:16Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Telefonía / Presence",
         "Departamento": "Ventas (GGCC)",
@@ -276,10 +372,18 @@
       "created_at": "2024-10-01T09:00:20Z",
       "updated_at": "2024-10-01T09:11:19Z",
       "creator_id": "64428561",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Sergi Guillen",
         "Categoría": "Business Central / Navision",
         "Departamento": "Almacén",
@@ -298,16 +402,24 @@
       "created_at": "2024-12-19T13:31:56Z",
       "updated_at": "2024-12-24T08:25:54Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Crítica",
         "Impacto": "Significativo",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5733:50:36",
+        "Tiempo de resolución": "5740:17:52",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -320,10 +432,20 @@
       "created_at": "2024-10-01T11:10:39Z",
       "updated_at": "2024-11-14T14:24:07Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen",
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64428561,
+        64311515
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen, Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Compras",
@@ -342,10 +464,18 @@
       "created_at": "2024-10-02T07:52:01Z",
       "updated_at": "2024-11-14T14:24:04Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Ventas (CSS)",
@@ -364,10 +494,18 @@
       "created_at": "2024-10-02T08:09:30Z",
       "updated_at": "2024-10-15T13:01:27Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (GGCC)",
@@ -386,10 +524,18 @@
       "created_at": "2024-10-02T11:26:44Z",
       "updated_at": "2024-10-02T11:28:21Z",
       "creator_id": "64428561",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Sergi Guillen",
         "Categoría": "Impresoras",
         "Departamento": "Almacén",
@@ -408,10 +554,18 @@
       "created_at": "2024-10-02T13:06:42Z",
       "updated_at": "2024-10-10T08:19:01Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Adm / Finanzas",
@@ -430,10 +584,18 @@
       "created_at": "2024-10-02T13:26:57Z",
       "updated_at": "2024-10-03T08:20:00Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Crítica",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Dispositivos móviles / tablets",
         "Departamento": "Ventas (GGCC)",
@@ -452,10 +614,18 @@
       "created_at": "2024-10-02T14:53:54Z",
       "updated_at": "2024-10-23T13:30:41Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Compras",
@@ -474,10 +644,18 @@
       "created_at": "2024-10-02T15:17:12Z",
       "updated_at": "2024-10-09T16:19:12Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Impresoras",
         "Departamento": "Ventas (GGCC)",
@@ -496,10 +674,18 @@
       "created_at": "2024-10-03T06:51:21Z",
       "updated_at": "2024-11-13T07:42:50Z",
       "creator_id": "64428561",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Sergi Guillen",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Marketing",
@@ -518,10 +704,18 @@
       "created_at": "2024-10-03T07:36:53Z",
       "updated_at": "2024-10-23T13:25:08Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -540,10 +734,18 @@
       "created_at": "2024-10-04T09:31:45Z",
       "updated_at": "2024-10-24T14:50:21Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Otras aplicaciones",
         "Departamento": "Ventas (GGCC)",
@@ -562,10 +764,18 @@
       "created_at": "2024-10-04T14:25:42Z",
       "updated_at": "2024-10-07T15:12:05Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Impresoras",
         "Departamento": "Ventas (GGCC)",
@@ -584,10 +794,18 @@
       "created_at": "2024-10-07T04:15:50Z",
       "updated_at": "2024-10-24T14:47:59Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Salesforce",
         "Departamento": "Almacén",
@@ -606,10 +824,18 @@
       "created_at": "2024-10-07T07:42:21Z",
       "updated_at": "2024-11-14T14:24:00Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Dirección",
@@ -628,10 +854,18 @@
       "created_at": "2024-10-07T08:54:38Z",
       "updated_at": "2024-10-24T14:49:37Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Ventas (GGCC)",
@@ -650,10 +884,18 @@
       "created_at": "2024-10-07T08:59:03Z",
       "updated_at": "2024-10-07T13:54:43Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Seguridad",
         "Departamento": "Marketing",
@@ -672,10 +914,18 @@
       "created_at": "2024-10-07T09:42:26Z",
       "updated_at": "2024-10-24T14:50:57Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Tableau / Power BI",
         "Departamento": "Marketing",
@@ -694,10 +944,18 @@
       "created_at": "2024-10-07T15:34:00Z",
       "updated_at": "2024-10-10T15:19:00Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -716,10 +974,18 @@
       "created_at": "2024-10-08T06:52:02Z",
       "updated_at": "2024-10-08T07:07:59Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Tableau / Power BI",
         "Departamento": "Adm / Finanzas",
@@ -738,10 +1004,18 @@
       "created_at": "2024-10-08T13:13:46Z",
       "updated_at": "2024-10-09T16:18:21Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Otras aplicaciones",
         "Departamento": "Adm / Finanzas",
@@ -760,10 +1034,18 @@
       "created_at": "2024-10-09T07:56:57Z",
       "updated_at": "2024-10-24T14:50:27Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Compras",
@@ -782,10 +1064,18 @@
       "created_at": "2024-10-09T11:32:04Z",
       "updated_at": "2024-10-09T11:36:06Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Impresoras",
         "Departamento": "Almacén",
@@ -804,10 +1094,18 @@
       "created_at": "2024-10-09T13:46:46Z",
       "updated_at": "2024-10-23T13:25:21Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (GGCC)",
@@ -826,10 +1124,18 @@
       "created_at": "2024-10-10T06:42:33Z",
       "updated_at": "2024-10-23T13:30:49Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Compras",
@@ -848,10 +1154,18 @@
       "created_at": "2024-10-10T07:44:56Z",
       "updated_at": "2024-10-23T13:30:45Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Compras",
@@ -870,10 +1184,18 @@
       "created_at": "2024-10-10T08:16:12Z",
       "updated_at": "2024-10-23T13:25:28Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (CSS)",
@@ -892,10 +1214,18 @@
       "created_at": "2024-10-10T08:25:24Z",
       "updated_at": "2024-10-10T08:34:20Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (CSS)",
@@ -914,10 +1244,18 @@
       "created_at": "2024-10-10T08:30:52Z",
       "updated_at": "2024-10-10T08:34:17Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (CSS)",
@@ -936,10 +1274,18 @@
       "created_at": "2024-10-10T08:35:55Z",
       "updated_at": "2024-10-24T14:51:22Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Telefonía / Presence",
         "Departamento": "Ventas (CSS)",
@@ -958,10 +1304,18 @@
       "created_at": "2024-10-10T10:20:30Z",
       "updated_at": "2024-10-10T10:39:05Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Impresoras",
         "Departamento": "Almacén",
@@ -980,10 +1334,18 @@
       "created_at": "2024-10-10T10:22:28Z",
       "updated_at": "2024-10-10T10:39:01Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Impresoras",
         "Departamento": "Almacén",
@@ -1002,10 +1364,18 @@
       "created_at": "2024-10-10T10:53:57Z",
       "updated_at": "2024-10-11T08:40:27Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -1024,10 +1394,18 @@
       "created_at": "2024-10-10T11:59:56Z",
       "updated_at": "2024-10-23T13:30:46Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Crítica",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Compras",
@@ -1046,10 +1424,18 @@
       "created_at": "2024-10-11T06:38:14Z",
       "updated_at": "2024-10-24T14:52:24Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Usuarios / permisos",
         "Departamento": "Compras",
@@ -1068,10 +1454,18 @@
       "created_at": "2024-10-11T09:16:08Z",
       "updated_at": "2024-10-24T14:55:16Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Almacén",
@@ -1090,10 +1484,18 @@
       "created_at": "2024-10-14T04:56:16Z",
       "updated_at": "2024-10-14T08:47:00Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Almacén",
@@ -1112,10 +1514,18 @@
       "created_at": "2024-10-14T08:12:20Z",
       "updated_at": "2024-10-23T13:25:38Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Salesforce",
         "Departamento": "Ventas (CSS)",
@@ -1134,10 +1544,18 @@
       "created_at": "2024-10-14T13:45:40Z",
       "updated_at": "2024-10-23T13:30:51Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Compras",
@@ -1156,10 +1574,18 @@
       "created_at": "2024-10-14T17:03:16Z",
       "updated_at": "2024-10-28T07:46:05Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Salesforce",
         "Departamento": "Ventas (GGCC)",
@@ -1178,10 +1604,18 @@
       "created_at": "2024-10-15T20:01:47Z",
       "updated_at": "2024-10-24T14:54:10Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Almacén",
@@ -1200,10 +1634,18 @@
       "created_at": "2024-10-15T20:05:06Z",
       "updated_at": "2024-10-18T10:05:02Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Otras aplicaciones",
         "Departamento": "Almacén",
@@ -1222,10 +1664,18 @@
       "created_at": "2024-10-17T09:59:43Z",
       "updated_at": "2024-12-03T12:23:48Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Red / Conexión",
         "Departamento": "Almacén",
@@ -1244,10 +1694,18 @@
       "created_at": "2024-10-18T07:32:00Z",
       "updated_at": "2024-10-23T13:30:53Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Compras",
@@ -1266,10 +1724,18 @@
       "created_at": "2024-10-18T14:15:53Z",
       "updated_at": "2024-10-23T13:26:24Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (GGCC)",
@@ -1288,10 +1754,18 @@
       "created_at": "2024-10-21T09:30:55Z",
       "updated_at": "2024-10-21T09:47:12Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Usuarios / permisos",
         "Departamento": "Almacén",
@@ -1310,10 +1784,18 @@
       "created_at": "2024-10-21T10:33:04Z",
       "updated_at": "2024-10-23T13:26:31Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (GGCC)",
@@ -1332,10 +1814,18 @@
       "created_at": "2024-10-21T11:20:07Z",
       "updated_at": "2024-10-23T13:26:26Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -1354,10 +1844,18 @@
       "created_at": "2024-10-21T15:25:30Z",
       "updated_at": "2024-12-17T09:55:54Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Adm / Finanzas",
@@ -1376,10 +1874,18 @@
       "created_at": "2024-10-22T06:56:17Z",
       "updated_at": "2024-10-28T08:08:21Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Salesforce",
         "Departamento": "Ventas (GGCC)",
@@ -1398,10 +1904,18 @@
       "created_at": "2024-10-22T07:30:24Z",
       "updated_at": "2024-10-23T08:49:59Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (GGCC)",
@@ -1420,10 +1934,18 @@
       "created_at": "2024-10-22T13:03:19Z",
       "updated_at": "2024-11-14T14:23:56Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Salesforce",
         "Departamento": "Ventas (CSS)",
@@ -1442,10 +1964,18 @@
       "created_at": "2024-10-22T13:36:43Z",
       "updated_at": "2024-10-23T07:10:11Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Adm / Finanzas",
@@ -1464,10 +1994,18 @@
       "created_at": "2024-10-23T06:18:01Z",
       "updated_at": "2024-10-25T10:01:43Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Tableau / Power BI",
         "Departamento": "Ventas (CSS)",
@@ -1486,10 +2024,18 @@
       "created_at": "2024-10-23T14:29:09Z",
       "updated_at": "2024-10-24T14:44:33Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Compras",
@@ -1508,10 +2054,18 @@
       "created_at": "2024-10-24T06:28:23Z",
       "updated_at": "2024-10-24T14:54:59Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Almacén",
@@ -1530,10 +2084,18 @@
       "created_at": "2024-10-24T10:29:22Z",
       "updated_at": "2024-12-10T10:33:24Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Solicitud de material informático",
         "Departamento": "Adm / Finanzas",
@@ -1552,10 +2114,18 @@
       "created_at": "2024-10-25T07:53:08Z",
       "updated_at": "2024-11-05T11:13:52Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -1574,10 +2144,18 @@
       "created_at": "2024-10-25T08:17:04Z",
       "updated_at": "2024-11-08T10:28:04Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Impresoras",
         "Departamento": "Almacén",
@@ -1596,10 +2174,18 @@
       "created_at": "2024-10-25T09:01:53Z",
       "updated_at": "2024-10-29T08:16:38Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Salesforce",
         "Departamento": "Ventas (GGCC)",
@@ -1618,10 +2204,18 @@
       "created_at": "2024-10-25T09:06:59Z",
       "updated_at": "2024-10-28T11:03:09Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Salesforce",
         "Departamento": "Ventas (GGCC)",
@@ -1640,10 +2234,18 @@
       "created_at": "2024-10-28T07:55:13Z",
       "updated_at": "2024-10-28T11:11:37Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Red / Conexión",
         "Departamento": "Adm / Finanzas",
@@ -1662,10 +2264,18 @@
       "created_at": "2024-10-28T08:39:06Z",
       "updated_at": "2024-11-13T07:42:07Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Marketing",
@@ -1684,10 +2294,18 @@
       "created_at": "2024-10-28T09:02:01Z",
       "updated_at": "2024-10-28T10:36:02Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Adm / Finanzas",
@@ -1706,10 +2324,18 @@
       "created_at": "2024-10-28T09:47:31Z",
       "updated_at": "2024-10-28T11:07:59Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "S.O. (Windows)",
         "Departamento": "Marketing",
@@ -1728,10 +2354,18 @@
       "created_at": "2024-10-28T10:45:28Z",
       "updated_at": "2024-11-18T08:45:41Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Adm / Finanzas",
@@ -1750,10 +2384,18 @@
       "created_at": "2024-10-28T12:18:54Z",
       "updated_at": "2024-10-30T08:45:01Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Equipo / Periféricos",
         "Departamento": "Compras",
@@ -1772,10 +2414,18 @@
       "created_at": "2024-10-28T15:50:51Z",
       "updated_at": "2024-11-12T07:51:11Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (GGCC)",
@@ -1794,10 +2444,18 @@
       "created_at": "2024-10-29T06:56:56Z",
       "updated_at": "2024-10-30T12:20:35Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Compras",
@@ -1816,10 +2474,18 @@
       "created_at": "2024-10-29T12:22:46Z",
       "updated_at": "2024-10-30T09:37:49Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -1838,10 +2504,18 @@
       "created_at": "2024-10-29T13:44:07Z",
       "updated_at": "2024-11-13T07:42:39Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "S.O. (Windows)",
         "Departamento": "Ventas (CSS)",
@@ -1860,10 +2534,18 @@
       "created_at": "2024-10-30T07:51:47Z",
       "updated_at": "2024-10-30T15:20:17Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (GGCC)",
@@ -1882,10 +2564,18 @@
       "created_at": "2024-10-31T07:04:14Z",
       "updated_at": "2024-11-05T11:22:00Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Extendido",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Compras",
@@ -1904,10 +2594,18 @@
       "created_at": "2024-10-31T13:08:00Z",
       "updated_at": "2024-11-11T10:39:13Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -1926,10 +2624,18 @@
       "created_at": "2024-11-01T08:16:16Z",
       "updated_at": "2024-11-05T08:08:33Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Usuarios / permisos",
         "Departamento": "Ventas (CSS)",
@@ -1948,10 +2654,18 @@
       "created_at": "2024-11-04T08:20:36Z",
       "updated_at": "2024-11-08T10:27:26Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Almacén",
@@ -1970,10 +2684,18 @@
       "created_at": "2024-11-04T10:08:58Z",
       "updated_at": "2024-11-04T10:44:49Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Significativo",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Impresoras",
         "Departamento": "Almacén",
@@ -1992,10 +2714,18 @@
       "created_at": "2024-11-04T12:30:13Z",
       "updated_at": "2024-11-06T14:48:53Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Adm / Finanzas",
@@ -2014,10 +2744,18 @@
       "created_at": "2024-11-05T10:06:01Z",
       "updated_at": "2024-11-05T11:36:59Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Alta",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (GGCC)",
@@ -2036,10 +2774,18 @@
       "created_at": "2024-11-05T10:55:52Z",
       "updated_at": "2024-11-05T11:13:24Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -2058,10 +2804,18 @@
       "created_at": "2024-11-05T11:11:33Z",
       "updated_at": "2024-11-05T11:15:07Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Tableau / Power BI",
         "Departamento": "Adm / Finanzas",
@@ -2080,10 +2834,18 @@
       "created_at": "2024-11-06T14:32:22Z",
       "updated_at": "2024-11-07T08:24:42Z",
       "creator_id": "64428561",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Sergi Guillen",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (GGCC)",
@@ -2102,10 +2864,18 @@
       "created_at": "2024-11-06T16:37:57Z",
       "updated_at": "2024-11-07T10:22:17Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Ventas (CSS)",
@@ -2124,10 +2894,18 @@
       "created_at": "2024-11-07T13:36:11Z",
       "updated_at": "2024-11-08T07:42:24Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Baja",
         "Impacto": "Menor",
+        "Asignado": "Joan Company",
         "Solicitante": "Joan Company",
         "Categoría": "Office / Outlook / Teams",
         "Departamento": "Marketing",
@@ -2146,10 +2924,18 @@
       "created_at": "2024-11-07T16:22:46Z",
       "updated_at": "2024-11-11T12:46:24Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -2168,16 +2954,24 @@
       "created_at": "2025-08-08T15:45:06Z",
       "updated_at": "2025-08-11T08:02:29Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Media",
         "Impacto": "Moderado",
+        "Asignado": "Claranet ServiceDesk",
         "Solicitante": "",
         "Categoría": "Telefonía / Presence",
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "163:37:31",
+        "Tiempo de resolución": "170:04:46",
         "Fecha de creación": "2025-08-08 15:45:06 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2091281997"
@@ -2190,10 +2984,18 @@
       "created_at": "2024-11-08T12:21:37Z",
       "updated_at": "2024-11-08T12:47:09Z",
       "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
       "columns": {
         "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
         "Solicitante": "Joan Company",
         "Categoría": "Impresoras",
         "Departamento": "Ventas (GGCC)",
