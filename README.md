@@ -14,7 +14,7 @@ Exporta items de un tablero de Monday.com a un archivo JSON dentro del repositor
    - `OUTPUT_PATH` (ej. `data/monday_tickets.json`)
    - `MONDAY_MAX_ITEMS` (por defecto 5000)
    - `COLUMN_MAPPING_JSON` con un JSON de mapeo (ver `config/column_mapping.example.json`).
-3. Revisa el workflow en `.github/workflows/monday-export.yml`.
+   - `ASSIGNEE_COLUMN_ID` con el **ID de la columna** de asignados (por defecto `person`).
 
 ## Ejecución
 - Manual: pestaña **Actions** → *Export Monday tickets to JSON* → **Run workflow**.
@@ -23,8 +23,9 @@ Exporta items de un tablero de Monday.com a un archivo JSON dentro del repositor
 ## Desarrollo local
 ```bash
 python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\\Scripts\\activate
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r scripts/requirements.txt
 export MONDAY_API_TOKEN=xxxxx
 export MONDAY_BOARD_ID=1234567890
+export ASSIGNEE_COLUMN_ID=person
 python scripts/export_monday_to_json.py
