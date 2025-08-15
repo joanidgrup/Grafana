@@ -3,7 +3,7 @@ name: Export Monday tickets to JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 4 * * *'  # 04:00 UTC diarios (ajusta a tu gusto)
+    - cron: '0 4 * * *'  # 04:00 UTC diarios
 
 permissions:
   contents: write  # necesario para commitear el JSON
