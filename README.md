@@ -4,7 +4,7 @@ Exporta items de un tablero de Monday.com a un archivo JSON dentro del repositor
 
 ## Requisitos
 - Token de API de Monday (`MONDAY_API_TOKEN`).
-- ID del tablero (`MONDAY_BOARD_ID`).
+- ID del tablero (`MONDAY_BOARD_ID`) como **string**.
 
 ## Configuración
 1. Crea los **Secrets** del repositorio:
@@ -18,7 +18,7 @@ Exporta items de un tablero de Monday.com a un archivo JSON dentro del repositor
 
 ## Ejecución
 - Manual: pestaña **Actions** → *Export Monday tickets to JSON* → **Run workflow**.
-- Automática: hay un **cron** diario (04:00 UTC) editable.
+- Automática: cron diario a las 04:00 UTC (edítalo a tu gusto).
 
 ## Desarrollo local
 ```bash
