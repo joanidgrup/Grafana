@@ -29,7 +29,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4768:10:58",
+        "Tiempo de resolución": "4769:12:09",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -59,7 +59,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5160:48:34",
+        "Tiempo de resolución": "5161:49:44",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -70,20 +70,22 @@
       "name": "el sistema va muy muy lento",
       "group": "En proceso",
       "created_at": "2025-06-16T13:17:51Z",
-      "updated_at": "2025-08-07T08:29:46Z",
+      "updated_at": "2025-08-18T08:29:57Z",
       "creator_id": "64311515",
       "assignees": [
-        "Claranet ServiceDesk"
+        "Claranet ServiceDesk",
+        "Sergi Guillen"
       ],
       "assignees_ids": [
-        78542761
+        78542761,
+        64428561
       ],
       "assigned_primary": "Claranet ServiceDesk",
       "columns": {
         "Estado": "En proceso",
         "Urgencia": "Crítica",
         "Impacto": "Significativo",
-        "Asignado": "Claranet ServiceDesk",
+        "Asignado": "Claranet ServiceDesk, Sergi Guillen",
         "Solicitante": "",
         "Categoría": "Business Central / Navision",
         "Departamento": "Ventas (CSS)",
@@ -119,7 +121,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1463:57:54",
+        "Tiempo de resolución": "1464:59:04",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -149,40 +151,10 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2829:16:26",
+        "Tiempo de resolución": "2830:17:36",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
-      }
-    },
-    {
-      "id": 2093721409,
-      "name": "Contraseña sistema",
-      "group": "En proceso",
-      "created_at": "2025-08-11T10:18:21Z",
-      "updated_at": "2025-08-11T10:34:15Z",
-      "creator_id": "64311515",
-      "assignees": [
-        "Claranet ServiceDesk"
-      ],
-      "assignees_ids": [
-        78542761
-      ],
-      "assigned_primary": "Claranet ServiceDesk",
-      "columns": {
-        "Estado": "En proceso",
-        "Urgencia": "Alta",
-        "Impacto": "Menor",
-        "Asignado": "Claranet ServiceDesk",
-        "Solicitante": "",
-        "Categoría": "Office / Outlook / Teams",
-        "Departamento": "Ventas (GGCC)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "165:37:03",
-        "Fecha de creación": "2025-08-11 10:18:21 UTC",
-        "Fecha de cierre": "",
-        "Nº de ticket": "2093721409"
       }
     },
     {
@@ -209,7 +181,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "118:04:43",
+        "Tiempo de resolución": "119:05:53",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -239,10 +211,40 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "118:11:01",
+        "Tiempo de resolución": "119:12:11",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
+      }
+    },
+    {
+      "id": 2093721409,
+      "name": "Contraseña sistema",
+      "group": "Finalizado",
+      "created_at": "2025-08-11T10:18:21Z",
+      "updated_at": "2025-08-18T08:27:58Z",
+      "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
+      "columns": {
+        "Estado": "Finalizado",
+        "Urgencia": "Alta",
+        "Impacto": "Menor",
+        "Asignado": "Claranet ServiceDesk",
+        "Solicitante": "",
+        "Categoría": "Office / Outlook / Teams",
+        "Departamento": "Ventas (GGCC)",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "166:38:13",
+        "Fecha de creación": "2025-08-11 10:18:21 UTC",
+        "Fecha de cierre": "",
+        "Nº de ticket": "2093721409"
       }
     },
     {
@@ -419,7 +421,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5802:23:27",
+        "Tiempo de resolución": "5803:24:38",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -2952,7 +2954,7 @@
       "name": "Desviar el Movil de Elia Mateo - 663788838",
       "group": "Finalizado",
       "created_at": "2025-08-08T15:45:06Z",
-      "updated_at": "2025-08-11T08:02:29Z",
+      "updated_at": "2025-08-18T08:28:07Z",
       "creator_id": "64311515",
       "assignees": [
         "Claranet ServiceDesk"
@@ -2962,7 +2964,7 @@
       ],
       "assigned_primary": "Claranet ServiceDesk",
       "columns": {
-        "Estado": "En proceso",
+        "Estado": "Finalizado",
         "Urgencia": "Media",
         "Impacto": "Moderado",
         "Asignado": "Claranet ServiceDesk",
@@ -2971,7 +2973,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "232:10:21",
+        "Tiempo de resolución": "233:11:32",
         "Fecha de creación": "2025-08-08 15:45:06 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2091281997"
