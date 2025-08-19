@@ -6,32 +6,6 @@
   "count": 100,
   "items": [
     {
-      "id": 2105393955,
-      "name": "Acceso al NAV PT",
-      "group": "Pendientes de asignar",
-      "created_at": "2025-08-19T11:13:47Z",
-      "updated_at": "2025-08-19T11:13:51Z",
-      "creator_id": "64311515",
-      "assignees": [],
-      "assignees_ids": [],
-      "assigned_primary": null,
-      "columns": {
-        "Estado": "Pendiente de asignar",
-        "Urgencia": "Alta",
-        "Impacto": "Moderado",
-        "Asignado": "",
-        "Solicitante": "",
-        "Categoría": "Business Central / Navision",
-        "Departamento": "Ventas (CSS)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "00:30:01",
-        "Fecha de creación": "2025-08-19 11:13:47 UTC",
-        "Fecha de cierre": "",
-        "Nº de ticket": "2105393955"
-      }
-    },
-    {
       "id": 1803587389,
       "name": "solicitud material Andalucía",
       "group": "En proceso",
@@ -55,7 +29,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4795:59:24",
+        "Tiempo de resolución": "4796:12:27",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -85,7 +59,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5188:37:00",
+        "Tiempo de resolución": "5188:50:02",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -147,7 +121,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1491:46:20",
+        "Tiempo de resolución": "1491:59:22",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -177,10 +151,36 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2857:04:52",
+        "Tiempo de resolución": "2857:17:54",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
+      }
+    },
+    {
+      "id": 2105393955,
+      "name": "Acceso al NAV PT",
+      "group": "Finalizado",
+      "created_at": "2025-08-19T11:13:47Z",
+      "updated_at": "2025-08-19T11:54:21Z",
+      "creator_id": "64311515",
+      "assignees": [],
+      "assignees_ids": [],
+      "assigned_primary": null,
+      "columns": {
+        "Estado": "Finalizado",
+        "Urgencia": "Alta",
+        "Impacto": "Moderado",
+        "Asignado": "",
+        "Solicitante": "",
+        "Categoría": "Business Central / Navision",
+        "Departamento": "Ventas (CSS)",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "00:43:04",
+        "Fecha de creación": "2025-08-19 11:13:47 UTC",
+        "Fecha de cierre": "",
+        "Nº de ticket": "2105393955"
       }
     },
     {
@@ -207,7 +207,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "193:25:29",
+        "Tiempo de resolución": "193:38:32",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -237,7 +237,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "145:59:27",
+        "Tiempo de resolución": "146:12:30",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -327,7 +327,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "145:53:09",
+        "Tiempo de resolución": "146:06:12",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -447,7 +447,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5830:11:53",
+        "Tiempo de resolución": "5830:24:56",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -2999,7 +2999,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "259:58:48",
+        "Tiempo de resolución": "260:11:50",
         "Fecha de creación": "2025-08-08 15:45:06 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2091281997"
