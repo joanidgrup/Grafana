@@ -6,6 +6,32 @@
   "count": 100,
   "items": [
     {
+      "id": 2109134173,
+      "name": "Acceso buzón Confirmacion@rajapack.es",
+      "group": "Pendientes de asignar",
+      "created_at": "2025-08-21T10:02:55Z",
+      "updated_at": "2025-08-21T10:02:57Z",
+      "creator_id": "64311515",
+      "assignees": [],
+      "assignees_ids": [],
+      "assigned_primary": null,
+      "columns": {
+        "Estado": "Pendiente de asignar",
+        "Urgencia": "Media",
+        "Impacto": "Significativo",
+        "Asignado": "",
+        "Solicitante": "",
+        "Categoría": "Office / Outlook / Teams",
+        "Departamento": "Ventas (CSS)",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "00:39:53",
+        "Fecha de creación": "2025-08-21 10:02:55 UTC",
+        "Fecha de cierre": "",
+        "Nº de ticket": "2109134173"
+      }
+    },
+    {
       "id": 1803587389,
       "name": "solicitud material Andalucía",
       "group": "En proceso",
@@ -29,7 +55,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4842:06:42",
+        "Tiempo de resolución": "4842:58:23",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -59,7 +85,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5234:44:18",
+        "Tiempo de resolución": "5235:35:58",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -121,7 +147,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1537:53:38",
+        "Tiempo de resolución": "1538:45:18",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -151,7 +177,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2903:12:10",
+        "Tiempo de resolución": "2904:03:50",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
@@ -181,7 +207,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "21:11:34",
+        "Tiempo de resolución": "22:03:14",
         "Fecha de creación": "2025-08-20 12:39:34 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2107512431"
@@ -207,7 +233,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "46:37:20",
+        "Tiempo de resolución": "47:29:00",
         "Fecha de creación": "2025-08-19 11:13:47 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2105393955"
@@ -237,7 +263,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "239:32:47",
+        "Tiempo de resolución": "240:24:27",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -267,7 +293,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "192:06:45",
+        "Tiempo de resolución": "192:58:25",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -357,7 +383,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "192:00:27",
+        "Tiempo de resolución": "192:52:07",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -477,7 +503,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5876:19:11",
+        "Tiempo de resolución": "5877:10:51",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -879,7 +905,7 @@
       "id": 1655998221,
       "name": "Outlook antiguo",
       "group": "Finalizado",
-      "created_at": "2024-10-07T07:42:21Z",
+      "created_at": "2024-10-07T07:42:22Z",
       "updated_at": "2024-11-14T14:24:00Z",
       "creator_id": "64311515",
       "assignees": [
@@ -900,7 +926,7 @@
         "SLA (min)": "",
         "Dentro de SLA": "",
         "Tiempo de resolución": "",
-        "Fecha de creación": "2024-10-07 07:42:21 UTC",
+        "Fecha de creación": "2024-10-07 07:42:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1655998221"
       }
@@ -1779,7 +1805,7 @@
       "id": 1670997991,
       "name": "CONEXIÓN CON EL SERVIDOR",
       "group": "Finalizado",
-      "created_at": "2024-10-18T14:15:53Z",
+      "created_at": "2024-10-18T14:15:54Z",
       "updated_at": "2024-10-23T13:26:24Z",
       "creator_id": "64311515",
       "assignees": [
@@ -1800,7 +1826,7 @@
         "SLA (min)": "",
         "Dentro de SLA": "",
         "Tiempo de resolución": "67:22:56",
-        "Fecha de creación": "2024-10-18 14:15:53 UTC",
+        "Fecha de creación": "2024-10-18 14:15:54 UTC",
         "Fecha de cierre": "2024-10-21",
         "Nº de ticket": "1670997991"
       }
@@ -2973,36 +2999,6 @@
         "Fecha de creación": "2024-11-07 13:36:11 UTC",
         "Fecha de cierre": "2024-11-08",
         "Nº de ticket": "1695704660"
-      }
-    },
-    {
-      "id": 1696132073,
-      "name": "Error PV24/006274",
-      "group": "Finalizado",
-      "created_at": "2024-11-07T16:22:46Z",
-      "updated_at": "2024-11-11T12:46:24Z",
-      "creator_id": "64311515",
-      "assignees": [
-        "Sergi Guillen"
-      ],
-      "assignees_ids": [
-        64428561
-      ],
-      "assigned_primary": "Sergi Guillen",
-      "columns": {
-        "Estado": "Finalizado",
-        "Urgencia": "Media",
-        "Impacto": "Menor",
-        "Asignado": "Sergi Guillen",
-        "Solicitante": "Joan Company",
-        "Categoría": "Business Central / Navision",
-        "Departamento": "Ventas (CSS)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "92:23:32",
-        "Fecha de creación": "2024-11-07 16:22:46 UTC",
-        "Fecha de cierre": "2024-11-11",
-        "Nº de ticket": "1696132073"
       }
     }
   ]
