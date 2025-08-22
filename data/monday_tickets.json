@@ -29,7 +29,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4867:09:22",
+        "Tiempo de resolución": "4867:43:19",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -59,7 +59,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5259:46:57",
+        "Tiempo de resolución": "5260:20:54",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -121,7 +121,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1562:56:17",
+        "Tiempo de resolución": "1563:30:14",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -151,40 +151,10 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2928:14:49",
+        "Tiempo de resolución": "2928:48:46",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
-      }
-    },
-    {
-      "id": 2110950849,
-      "name": "reinicio usuario Teresa Jubany",
-      "group": "En proceso",
-      "created_at": "2025-08-22T10:10:34Z",
-      "updated_at": "2025-08-22T10:38:32Z",
-      "creator_id": "64311515",
-      "assignees": [
-        "Claranet ServiceDesk"
-      ],
-      "assignees_ids": [
-        78542761
-      ],
-      "assigned_primary": "Claranet ServiceDesk",
-      "columns": {
-        "Estado": "Finalizado",
-        "Urgencia": "Alta",
-        "Impacto": "Significativo",
-        "Asignado": "Claranet ServiceDesk",
-        "Solicitante": "",
-        "Categoría": "Usuarios / permisos",
-        "Departamento": "Ventas (CSS)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "00:43:12",
-        "Fecha de creación": "2025-08-22 10:10:34 UTC",
-        "Fecha de cierre": "",
-        "Nº de ticket": "2110950849"
       }
     },
     {
@@ -211,7 +181,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "24:50:52",
+        "Tiempo de resolución": "25:24:49",
         "Fecha de creación": "2025-08-21 10:02:55 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2109134173"
@@ -237,7 +207,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "71:39:59",
+        "Tiempo de resolución": "72:13:56",
         "Fecha de creación": "2025-08-19 11:13:47 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2105393955"
@@ -267,7 +237,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "264:35:26",
+        "Tiempo de resolución": "265:09:23",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -297,7 +267,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "217:09:24",
+        "Tiempo de resolución": "217:43:21",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -387,7 +357,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "217:03:06",
+        "Tiempo de resolución": "217:37:03",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -507,7 +477,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5901:21:50",
+        "Tiempo de resolución": "5901:55:47",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -3003,6 +2973,36 @@
         "Fecha de creación": "2024-11-07 13:36:11 UTC",
         "Fecha de cierre": "2024-11-08",
         "Nº de ticket": "1695704660"
+      }
+    },
+    {
+      "id": 1696132073,
+      "name": "Error PV24/006274",
+      "group": "Finalizado",
+      "created_at": "2024-11-07T16:22:46Z",
+      "updated_at": "2024-11-11T12:46:24Z",
+      "creator_id": "64311515",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
+      "columns": {
+        "Estado": "Finalizado",
+        "Urgencia": "Media",
+        "Impacto": "Menor",
+        "Asignado": "Sergi Guillen",
+        "Solicitante": "Joan Company",
+        "Categoría": "Business Central / Navision",
+        "Departamento": "Ventas (CSS)",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "92:23:32",
+        "Fecha de creación": "2024-11-07 16:22:46 UTC",
+        "Fecha de cierre": "2024-11-11",
+        "Nº de ticket": "1696132073"
       }
     }
   ]
