@@ -29,7 +29,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4866:04:53",
+        "Tiempo de resolución": "4866:56:54",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -59,7 +59,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5258:42:28",
+        "Tiempo de resolución": "5259:34:29",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -121,7 +121,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1561:51:48",
+        "Tiempo de resolución": "1562:43:49",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -151,18 +151,18 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2927:10:20",
+        "Tiempo de resolución": "2928:02:21",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
       }
     },
     {
-      "id": 2109134173,
-      "name": "Acceso buzón Confirmacion@rajapack.es",
-      "group": "Escalado",
-      "created_at": "2025-08-21T10:02:55Z",
-      "updated_at": "2025-08-21T12:08:46Z",
+      "id": 2110950849,
+      "name": "reinicio usuario Teresa Jubany",
+      "group": "En proceso",
+      "created_at": "2025-08-22T10:10:34Z",
+      "updated_at": "2025-08-22T10:38:32Z",
       "creator_id": "64311515",
       "assignees": [
         "Claranet ServiceDesk"
@@ -172,7 +172,37 @@
       ],
       "assigned_primary": "Claranet ServiceDesk",
       "columns": {
-        "Estado": "En proceso",
+        "Estado": "Finalizado",
+        "Urgencia": "Alta",
+        "Impacto": "Significativo",
+        "Asignado": "Claranet ServiceDesk",
+        "Solicitante": "",
+        "Categoría": "Usuarios / permisos",
+        "Departamento": "Ventas (CSS)",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "00:30:44",
+        "Fecha de creación": "2025-08-22 10:10:34 UTC",
+        "Fecha de cierre": "",
+        "Nº de ticket": "2110950849"
+      }
+    },
+    {
+      "id": 2109134173,
+      "name": "Acceso buzón Confirmacion@rajapack.es",
+      "group": "Escalado",
+      "created_at": "2025-08-21T10:02:55Z",
+      "updated_at": "2025-08-22T10:24:15Z",
+      "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
+      "columns": {
+        "Estado": "Escalado",
         "Urgencia": "Media",
         "Impacto": "Significativo",
         "Asignado": "Claranet ServiceDesk",
@@ -181,7 +211,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "23:46:23",
+        "Tiempo de resolución": "24:38:24",
         "Fecha de creación": "2025-08-21 10:02:55 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2109134173"
@@ -207,7 +237,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "70:35:30",
+        "Tiempo de resolución": "71:27:31",
         "Fecha de creación": "2025-08-19 11:13:47 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2105393955"
@@ -237,7 +267,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "263:30:57",
+        "Tiempo de resolución": "264:22:58",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -267,7 +297,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "216:04:55",
+        "Tiempo de resolución": "216:56:56",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -357,7 +387,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "215:58:37",
+        "Tiempo de resolución": "216:50:38",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -477,7 +507,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5900:17:21",
+        "Tiempo de resolución": "5901:09:22",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -2973,36 +3003,6 @@
         "Fecha de creación": "2024-11-07 13:36:11 UTC",
         "Fecha de cierre": "2024-11-08",
         "Nº de ticket": "1695704660"
-      }
-    },
-    {
-      "id": 1696132073,
-      "name": "Error PV24/006274",
-      "group": "Finalizado",
-      "created_at": "2024-11-07T16:22:46Z",
-      "updated_at": "2024-11-11T12:46:24Z",
-      "creator_id": "64311515",
-      "assignees": [
-        "Sergi Guillen"
-      ],
-      "assignees_ids": [
-        64428561
-      ],
-      "assigned_primary": "Sergi Guillen",
-      "columns": {
-        "Estado": "Finalizado",
-        "Urgencia": "Media",
-        "Impacto": "Menor",
-        "Asignado": "Sergi Guillen",
-        "Solicitante": "Joan Company",
-        "Categoría": "Business Central / Navision",
-        "Departamento": "Ventas (CSS)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "92:23:32",
-        "Fecha de creación": "2024-11-07 16:22:46 UTC",
-        "Fecha de cierre": "2024-11-11",
-        "Nº de ticket": "1696132073"
       }
     }
   ]
