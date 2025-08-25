@@ -29,7 +29,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4939:12:29",
+        "Tiempo de resolución": "4939:45:48",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -59,7 +59,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5331:50:04",
+        "Tiempo de resolución": "5332:23:23",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -121,7 +121,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1634:59:24",
+        "Tiempo de resolución": "1635:32:43",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -151,7 +151,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "3000:17:56",
+        "Tiempo de resolución": "3000:51:15",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
@@ -160,9 +160,9 @@
     {
       "id": 2113343618,
       "name": "Bloqueo PC",
-      "group": "En proceso",
+      "group": "En espera",
       "created_at": "2025-08-25T07:15:48Z",
-      "updated_at": "2025-08-25T07:44:15Z",
+      "updated_at": "2025-08-25T11:15:21Z",
       "creator_id": "64311515",
       "assignees": [
         "Claranet ServiceDesk"
@@ -172,7 +172,7 @@
       ],
       "assigned_primary": "Claranet ServiceDesk",
       "columns": {
-        "Estado": "En proceso",
+        "Estado": "En espera",
         "Urgencia": "Crítica",
         "Impacto": "Menor",
         "Asignado": "Claranet ServiceDesk",
@@ -181,40 +181,10 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "03:41:07",
+        "Tiempo de resolución": "03:59:32",
         "Fecha de creación": "2025-08-25 07:15:48 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2113343618"
-      }
-    },
-    {
-      "id": 2113555122,
-      "name": "RESTABLECER CONTRASEÑA DEL USUARIO FLOBATO",
-      "group": "En proceso",
-      "created_at": "2025-08-25T08:45:01Z",
-      "updated_at": "2025-08-25T09:00:29Z",
-      "creator_id": "64311515",
-      "assignees": [
-        "Claranet ServiceDesk"
-      ],
-      "assignees_ids": [
-        78542761
-      ],
-      "assigned_primary": "Claranet ServiceDesk",
-      "columns": {
-        "Estado": "Finalizado",
-        "Urgencia": "Alta",
-        "Impacto": "Extendido",
-        "Asignado": "Claranet ServiceDesk",
-        "Solicitante": "Claranet ServiceDesk",
-        "Categoría": "Usuarios / permisos",
-        "Departamento": "Almacén",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "02:11:54",
-        "Fecha de creación": "2025-08-25 08:45:01 UTC",
-        "Fecha de cierre": "",
-        "Nº de ticket": "2113555122"
       }
     },
     {
@@ -241,7 +211,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "96:53:59",
+        "Tiempo de resolución": "97:27:18",
         "Fecha de creación": "2025-08-21 10:02:55 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2109134173"
@@ -267,7 +237,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "143:43:06",
+        "Tiempo de resolución": "144:16:25",
         "Fecha de creación": "2025-08-19 11:13:47 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2105393955"
@@ -297,7 +267,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "336:38:33",
+        "Tiempo de resolución": "337:11:52",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -327,7 +297,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "289:12:31",
+        "Tiempo de resolución": "289:45:50",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -417,7 +387,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "289:06:13",
+        "Tiempo de resolución": "289:39:32",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -537,7 +507,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5973:24:57",
+        "Tiempo de resolución": "5973:58:16",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -3003,6 +2973,36 @@
         "Fecha de creación": "2024-11-06 16:37:57 UTC",
         "Fecha de cierre": "2024-11-07",
         "Nº de ticket": "1694408616"
+      }
+    },
+    {
+      "id": 1695704660,
+      "name": "Spam recibido masivamente",
+      "group": "Finalizado",
+      "created_at": "2024-11-07T13:36:11Z",
+      "updated_at": "2024-11-08T07:42:24Z",
+      "creator_id": "64311515",
+      "assignees": [
+        "Joan Company"
+      ],
+      "assignees_ids": [
+        64311515
+      ],
+      "assigned_primary": "Joan Company",
+      "columns": {
+        "Estado": "Finalizado",
+        "Urgencia": "Baja",
+        "Impacto": "Menor",
+        "Asignado": "Joan Company",
+        "Solicitante": "Joan Company",
+        "Categoría": "Office / Outlook / Teams",
+        "Departamento": "Marketing",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "18:06:06",
+        "Fecha de creación": "2024-11-07 13:36:11 UTC",
+        "Fecha de cierre": "2024-11-08",
+        "Nº de ticket": "1695704660"
       }
     }
   ]
