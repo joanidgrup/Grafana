@@ -6,32 +6,6 @@
   "count": 100,
   "items": [
     {
-      "id": 2113343618,
-      "name": "Bloqueo PC",
-      "group": "Pendientes de asignar",
-      "created_at": "2025-08-25T07:15:48Z",
-      "updated_at": "2025-08-25T07:15:50Z",
-      "creator_id": "64311515",
-      "assignees": [],
-      "assignees_ids": [],
-      "assigned_primary": null,
-      "columns": {
-        "Estado": "Pendiente de asignar",
-        "Urgencia": "Crítica",
-        "Impacto": "Menor",
-        "Asignado": "",
-        "Solicitante": "",
-        "Categoría": "Equipo / Periféricos",
-        "Departamento": "Ventas (GGCC)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "00:18:30",
-        "Fecha de creación": "2025-08-25 07:15:48 UTC",
-        "Fecha de cierre": "",
-        "Nº de ticket": "2113343618"
-      }
-    },
-    {
       "id": 1803587389,
       "name": "solicitud material Andalucía",
       "group": "En proceso",
@@ -55,7 +29,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4935:49:53",
+        "Tiempo de resolución": "4936:02:24",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -85,7 +59,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5328:27:28",
+        "Tiempo de resolución": "5328:39:59",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -147,7 +121,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1631:36:48",
+        "Tiempo de resolución": "1631:49:19",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -177,10 +151,40 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2996:55:20",
+        "Tiempo de resolución": "2997:07:51",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
+      }
+    },
+    {
+      "id": 2113343618,
+      "name": "Bloqueo PC",
+      "group": "En proceso",
+      "created_at": "2025-08-25T07:15:48Z",
+      "updated_at": "2025-08-25T07:44:15Z",
+      "creator_id": "64311515",
+      "assignees": [
+        "Claranet ServiceDesk"
+      ],
+      "assignees_ids": [
+        78542761
+      ],
+      "assigned_primary": "Claranet ServiceDesk",
+      "columns": {
+        "Estado": "En proceso",
+        "Urgencia": "Crítica",
+        "Impacto": "Menor",
+        "Asignado": "Claranet ServiceDesk",
+        "Solicitante": "",
+        "Categoría": "Equipo / Periféricos",
+        "Departamento": "Ventas (GGCC)",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "00:31:02",
+        "Fecha de creación": "2025-08-25 07:15:48 UTC",
+        "Fecha de cierre": "",
+        "Nº de ticket": "2113343618"
       }
     },
     {
@@ -207,7 +211,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "93:31:23",
+        "Tiempo de resolución": "93:43:54",
         "Fecha de creación": "2025-08-21 10:02:55 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2109134173"
@@ -233,7 +237,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "140:20:30",
+        "Tiempo de resolución": "140:33:01",
         "Fecha de creación": "2025-08-19 11:13:47 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2105393955"
@@ -263,7 +267,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "333:15:57",
+        "Tiempo de resolución": "333:28:28",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -293,7 +297,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "285:49:55",
+        "Tiempo de resolución": "286:02:26",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -383,7 +387,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "285:43:37",
+        "Tiempo de resolución": "285:56:08",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -503,7 +507,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5970:02:21",
+        "Tiempo de resolución": "5970:14:52",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
