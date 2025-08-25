@@ -6,6 +6,32 @@
   "count": 100,
   "items": [
     {
+      "id": 2113555122,
+      "name": "RESTABLECER CONTRASEÑA DEL USUARIO FLOBATO",
+      "group": "Pendientes de asignar",
+      "created_at": "2025-08-25T08:45:01Z",
+      "updated_at": "2025-08-25T08:45:03Z",
+      "creator_id": "64311515",
+      "assignees": [],
+      "assignees_ids": [],
+      "assigned_primary": null,
+      "columns": {
+        "Estado": "Pendiente de asignar",
+        "Urgencia": "Alta",
+        "Impacto": "Extendido",
+        "Asignado": "",
+        "Solicitante": "",
+        "Categoría": "Usuarios / permisos",
+        "Departamento": "Almacén",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "00:10:39",
+        "Fecha de creación": "2025-08-25 08:45:01 UTC",
+        "Fecha de cierre": "",
+        "Nº de ticket": "2113555122"
+      }
+    },
+    {
       "id": 1803587389,
       "name": "solicitud material Andalucía",
       "group": "En proceso",
@@ -29,7 +55,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4936:15:09",
+        "Tiempo de resolución": "4937:11:14",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -59,7 +85,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5328:52:44",
+        "Tiempo de resolución": "5329:48:49",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -121,7 +147,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1632:02:04",
+        "Tiempo de resolución": "1632:58:09",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -151,7 +177,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2997:20:36",
+        "Tiempo de resolución": "2998:16:41",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
@@ -181,7 +207,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "00:43:47",
+        "Tiempo de resolución": "01:39:52",
         "Fecha de creación": "2025-08-25 07:15:48 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2113343618"
@@ -211,7 +237,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "93:56:39",
+        "Tiempo de resolución": "94:52:44",
         "Fecha de creación": "2025-08-21 10:02:55 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2109134173"
@@ -237,7 +263,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "140:45:46",
+        "Tiempo de resolución": "141:41:51",
         "Fecha de creación": "2025-08-19 11:13:47 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2105393955"
@@ -267,7 +293,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "333:41:13",
+        "Tiempo de resolución": "334:37:18",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -297,7 +323,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "286:15:11",
+        "Tiempo de resolución": "287:11:16",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -387,7 +413,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "286:08:53",
+        "Tiempo de resolución": "287:04:58",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -507,7 +533,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5970:27:37",
+        "Tiempo de resolución": "5971:23:42",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -2973,36 +2999,6 @@
         "Fecha de creación": "2024-11-06 16:37:57 UTC",
         "Fecha de cierre": "2024-11-07",
         "Nº de ticket": "1694408616"
-      }
-    },
-    {
-      "id": 1695704660,
-      "name": "Spam recibido masivamente",
-      "group": "Finalizado",
-      "created_at": "2024-11-07T13:36:11Z",
-      "updated_at": "2024-11-08T07:42:24Z",
-      "creator_id": "64311515",
-      "assignees": [
-        "Joan Company"
-      ],
-      "assignees_ids": [
-        64311515
-      ],
-      "assigned_primary": "Joan Company",
-      "columns": {
-        "Estado": "Finalizado",
-        "Urgencia": "Baja",
-        "Impacto": "Menor",
-        "Asignado": "Joan Company",
-        "Solicitante": "Joan Company",
-        "Categoría": "Office / Outlook / Teams",
-        "Departamento": "Marketing",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "18:06:06",
-        "Fecha de creación": "2024-11-07 13:36:11 UTC",
-        "Fecha de cierre": "2024-11-08",
-        "Nº de ticket": "1695704660"
       }
     }
   ]
