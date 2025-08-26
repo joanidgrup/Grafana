@@ -6,58 +6,6 @@
   "count": 100,
   "items": [
     {
-      "id": 2115168045,
-      "name": "Buzón Outlook confirmacion@rajapack.es",
-      "group": "Pendientes de asignar",
-      "created_at": "2025-08-26T06:54:31Z",
-      "updated_at": "2025-08-26T06:54:34Z",
-      "creator_id": "64311515",
-      "assignees": [],
-      "assignees_ids": [],
-      "assigned_primary": null,
-      "columns": {
-        "Estado": "Pendiente de asignar",
-        "Urgencia": "Media",
-        "Impacto": "Menor",
-        "Asignado": "",
-        "Solicitante": "",
-        "Categoría": "Office / Outlook / Teams",
-        "Departamento": "Ventas (GGCC)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "05:03:35",
-        "Fecha de creación": "2025-08-26 06:54:31 UTC",
-        "Fecha de cierre": "",
-        "Nº de ticket": "2115168045"
-      }
-    },
-    {
-      "id": 2115542334,
-      "name": "Acceso buzón Confirmacion@rajapack.es SHADYA.ANGULO",
-      "group": "Pendientes de asignar",
-      "created_at": "2025-08-26T09:18:22Z",
-      "updated_at": "2025-08-26T09:18:24Z",
-      "creator_id": "64311515",
-      "assignees": [],
-      "assignees_ids": [],
-      "assigned_primary": null,
-      "columns": {
-        "Estado": "Pendiente de asignar",
-        "Urgencia": "Alta",
-        "Impacto": "Significativo",
-        "Asignado": "",
-        "Solicitante": "",
-        "Categoría": "Office / Outlook / Teams",
-        "Departamento": "Ventas (CSS)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "02:39:46",
-        "Fecha de creación": "2025-08-26 09:18:22 UTC",
-        "Fecha de cierre": "",
-        "Nº de ticket": "2115542334"
-      }
-    },
-    {
       "id": 1803587389,
       "name": "solicitud material Andalucía",
       "group": "En proceso",
@@ -81,7 +29,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4964:13:42",
+        "Tiempo de resolución": "4966:00:15",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -111,7 +59,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5356:51:17",
+        "Tiempo de resolución": "5358:37:50",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -173,7 +121,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1660:00:37",
+        "Tiempo de resolución": "1661:47:10",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -203,7 +151,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "3025:19:09",
+        "Tiempo de resolución": "3027:05:42",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
@@ -263,10 +211,62 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "121:55:12",
+        "Tiempo de resolución": "123:41:45",
         "Fecha de creación": "2025-08-21 10:02:55 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2109134173"
+      }
+    },
+    {
+      "id": 2115542334,
+      "name": "Acceso buzón Confirmacion@rajapack.es SHADYA.ANGULO",
+      "group": "Finalizado",
+      "created_at": "2025-08-26T09:18:22Z",
+      "updated_at": "2025-08-26T13:05:14Z",
+      "creator_id": "64311515",
+      "assignees": [],
+      "assignees_ids": [],
+      "assigned_primary": null,
+      "columns": {
+        "Estado": "Finalizado",
+        "Urgencia": "Alta",
+        "Impacto": "Significativo",
+        "Asignado": "",
+        "Solicitante": "",
+        "Categoría": "Office / Outlook / Teams",
+        "Departamento": "Ventas (CSS)",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "04:26:19",
+        "Fecha de creación": "2025-08-26 09:18:22 UTC",
+        "Fecha de cierre": "",
+        "Nº de ticket": "2115542334"
+      }
+    },
+    {
+      "id": 2115168045,
+      "name": "Buzón Outlook confirmacion@rajapack.es",
+      "group": "Finalizado",
+      "created_at": "2025-08-26T06:54:31Z",
+      "updated_at": "2025-08-26T13:34:58Z",
+      "creator_id": "64311515",
+      "assignees": [],
+      "assignees_ids": [],
+      "assigned_primary": null,
+      "columns": {
+        "Estado": "Finalizado",
+        "Urgencia": "Media",
+        "Impacto": "Menor",
+        "Asignado": "",
+        "Solicitante": "",
+        "Categoría": "Office / Outlook / Teams",
+        "Departamento": "Ventas (GGCC)",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "06:50:08",
+        "Fecha de creación": "2025-08-26 06:54:31 UTC",
+        "Fecha de cierre": "",
+        "Nº de ticket": "2115168045"
       }
     },
     {
@@ -289,7 +289,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "168:44:19",
+        "Tiempo de resolución": "170:30:52",
         "Fecha de creación": "2025-08-19 11:13:47 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2105393955"
@@ -319,7 +319,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "361:39:46",
+        "Tiempo de resolución": "363:26:19",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -349,7 +349,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "314:13:44",
+        "Tiempo de resolución": "316:00:17",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -439,7 +439,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "314:07:26",
+        "Tiempo de resolución": "315:53:59",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -559,7 +559,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5998:26:10",
+        "Tiempo de resolución": "6000:12:43",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
