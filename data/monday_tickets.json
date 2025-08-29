@@ -29,7 +29,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5036:10:11",
+        "Tiempo de resolución": "5037:34:58",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -59,7 +59,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5428:47:46",
+        "Tiempo de resolución": "5430:12:33",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -121,7 +121,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1731:57:06",
+        "Tiempo de resolución": "1733:21:53",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -151,7 +151,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "3097:15:38",
+        "Tiempo de resolución": "3098:40:25",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
@@ -188,36 +188,6 @@
       }
     },
     {
-      "id": 2116913859,
-      "name": "Bloqueo de cuenta usuario ccabrejas@rajapack.es",
-      "group": "En espera",
-      "created_at": "2025-08-26T17:29:04Z",
-      "updated_at": "2025-08-27T06:32:50Z",
-      "creator_id": "64311515",
-      "assignees": [
-        "Claranet ServiceDesk"
-      ],
-      "assignees_ids": [
-        78542761
-      ],
-      "assigned_primary": "Claranet ServiceDesk",
-      "columns": {
-        "Estado": "En espera",
-        "Urgencia": "Crítica",
-        "Impacto": "Menor",
-        "Asignado": "Claranet ServiceDesk",
-        "Solicitante": "",
-        "Categoría": "Usuarios / permisos",
-        "Departamento": "Ventas (GGCC)",
-        "SLA (min)": "",
-        "Dentro de SLA": "",
-        "Tiempo de resolución": "13:03:45",
-        "Fecha de creación": "2025-08-26 17:29:04 UTC",
-        "Fecha de cierre": "",
-        "Nº de ticket": "2116913859"
-      }
-    },
-    {
       "id": 2109134173,
       "name": "Acceso buzón Confirmacion@rajapack.es",
       "group": "Escalado",
@@ -241,7 +211,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "193:51:41",
+        "Tiempo de resolución": "195:16:28",
         "Fecha de creación": "2025-08-21 10:02:55 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2109134173"
@@ -267,7 +237,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "74:36:15",
+        "Tiempo de resolución": "76:01:02",
         "Fecha de creación": "2025-08-26 09:18:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2115542334"
@@ -293,7 +263,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "77:00:04",
+        "Tiempo de resolución": "78:24:51",
         "Fecha de creación": "2025-08-26 06:54:31 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2115168045"
@@ -319,7 +289,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "240:40:48",
+        "Tiempo de resolución": "242:05:35",
         "Fecha de creación": "2025-08-19 11:13:47 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2105393955"
@@ -349,7 +319,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "433:36:15",
+        "Tiempo de resolución": "435:01:02",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -379,7 +349,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "386:10:13",
+        "Tiempo de resolución": "387:35:00",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -469,7 +439,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "386:03:55",
+        "Tiempo de resolución": "387:28:42",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -589,7 +559,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "6070:22:39",
+        "Tiempo de resolución": "6071:47:26",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
@@ -2995,6 +2965,36 @@
         "Fecha de creación": "2024-11-05 11:11:33 UTC",
         "Fecha de cierre": "2024-11-05",
         "Nº de ticket": "1691749379"
+      }
+    },
+    {
+      "id": 1694129866,
+      "name": "Actualizar calculador de ofertas ES y PT",
+      "group": "Finalizado",
+      "created_at": "2024-11-06T14:32:22Z",
+      "updated_at": "2024-11-07T08:24:42Z",
+      "creator_id": "64428561",
+      "assignees": [
+        "Sergi Guillen"
+      ],
+      "assignees_ids": [
+        64428561
+      ],
+      "assigned_primary": "Sergi Guillen",
+      "columns": {
+        "Estado": "Finalizado",
+        "Urgencia": "Media",
+        "Impacto": "Moderado",
+        "Asignado": "Sergi Guillen",
+        "Solicitante": "Sergi Guillen",
+        "Categoría": "Office / Outlook / Teams",
+        "Departamento": "Ventas (GGCC)",
+        "SLA (min)": "",
+        "Dentro de SLA": "",
+        "Tiempo de resolución": "00:02:40",
+        "Fecha de creación": "2024-11-06 14:32:22 UTC",
+        "Fecha de cierre": "2024-11-06",
+        "Nº de ticket": "1694129866"
       }
     }
   ]
