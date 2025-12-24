@@ -25,7 +25,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "365:50:08",
+        "Tiempo de resolución": "366:10:38",
         "Fecha de creación": "2025-12-09 08:36:14 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2559438404"
@@ -55,7 +55,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "7846:41:56",
+        "Tiempo de resolución": "7847:02:26",
         "Fecha de creación": "2025-01-31 15:44:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1803587389"
@@ -85,7 +85,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "8239:19:31",
+        "Tiempo de resolución": "8239:40:01",
         "Fecha de creación": "2025-01-15 07:06:49 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1777307946"
@@ -145,7 +145,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "4542:28:51",
+        "Tiempo de resolución": "4542:49:21",
         "Fecha de creación": "2025-06-18 07:57:29 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2008656257"
@@ -175,7 +175,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "5907:47:23",
+        "Tiempo de resolución": "5908:07:54",
         "Fecha de creación": "2025-04-22 10:38:59 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1925383440"
@@ -205,7 +205,7 @@
         "Departamento": "Adm / Finanzas",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2718:25:46",
+        "Tiempo de resolución": "2718:46:17",
         "Fecha de creación": "2025-09-02 08:00:30 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2126668673"
@@ -235,7 +235,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2717:46:30",
+        "Tiempo de resolución": "2718:07:01",
         "Fecha de creación": "2025-09-02 08:39:48 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2126830451"
@@ -265,7 +265,7 @@
         "Departamento": "Adm / Finanzas",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2694:07:32",
+        "Tiempo de resolución": "2694:28:03",
         "Fecha de creación": "2025-09-03 08:18:43 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2128982166"
@@ -295,7 +295,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2408:11:44",
+        "Tiempo de resolución": "2408:32:15",
         "Fecha de creación": "2025-09-15 06:14:38 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2148136085"
@@ -325,7 +325,7 @@
         "Departamento": "Dirección",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "1512:19:55",
+        "Tiempo de resolución": "1512:40:26",
         "Fecha de creación": "2025-10-22 14:06:25 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "5057511383"
@@ -385,7 +385,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2236:56:28",
+        "Tiempo de resolución": "2237:16:59",
         "Fecha de creación": "2025-09-22 09:29:54 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "5005204484"
@@ -411,7 +411,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2885:08:00",
+        "Tiempo de resolución": "2885:28:31",
         "Fecha de creación": "2025-08-26 09:18:22 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2115542334"
@@ -437,7 +437,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "2887:31:49",
+        "Tiempo de resolución": "2887:52:20",
         "Fecha de creación": "2025-08-26 06:54:31 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2115168045"
@@ -463,7 +463,7 @@
         "Departamento": "Ventas (CSS)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "3051:12:33",
+        "Tiempo de resolución": "3051:33:04",
         "Fecha de creación": "2025-08-19 11:13:47 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2105393955"
@@ -493,7 +493,7 @@
         "Departamento": "Ventas (GGCC)",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "3244:08:00",
+        "Tiempo de resolución": "3244:28:31",
         "Fecha de creación": "2025-08-11 10:18:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2093721409"
@@ -523,7 +523,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "3196:41:58",
+        "Tiempo de resolución": "3197:02:29",
         "Fecha de creación": "2025-08-13 09:44:21 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097598815"
@@ -613,7 +613,7 @@
         "Departamento": "Marketing",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "3196:35:40",
+        "Tiempo de resolución": "3196:56:11",
         "Fecha de creación": "2025-08-13 09:50:40 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "2097612359"
@@ -733,7 +733,7 @@
         "Departamento": "Almacén",
         "SLA (min)": "",
         "Dentro de SLA": "",
-        "Tiempo de resolución": "8880:54:24",
+        "Tiempo de resolución": "8881:14:55",
         "Fecha de creación": "2024-12-19 13:31:56 UTC",
         "Fecha de cierre": "",
         "Nº de ticket": "1750071332"
